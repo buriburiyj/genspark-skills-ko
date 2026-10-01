@@ -33,6 +33,8 @@ resume-work → token-saving-coding → (에러 나면) fix-error → conversati
 4. 대화가 길어지면 `/con`으로 **conversation-handoff**를 부르고, 요약을 메모나 AI Drive에 저장합니다.
 
 ### 설치 방법
+**방법 0: .skill 파일 받기**: [Releases](https://github.com/buriburiyj/genspark-skills-ko/releases/latest)에서 `.skill` 파일을 받아 Skills 화면에 업로드합니다. (영어판은 `*-en.skill`)
+
 **방법 1: 공유 링크로 추가 (가장 쉬움, 로그인 필요)**
 - [conversation-handoff](https://www.genspark.ai/skills/share/D-ka4dzPkTzGWHqZHD92lMIroc_Mgmz7)
 - [resume-work](https://www.genspark.ai/skills/share/He8tMmMPbXkA_lYT8C1-PKzrFKR4D5bj)
@@ -83,7 +85,7 @@ resume-work → token-saving-coding → (on error) fix-error → conversation-ha
 2. Go to [genspark.ai/skills](https://www.genspark.ai/skills) → **+ New Skill** → **Create for myself**.
 3. Paste it and ask Genspark to create the Skill.
 
-> The Skill prompts are written in Korean. You can ask Genspark to translate them before creating the Skill.
+> English versions: [skills-en/](skills-en/) · Ready-to-upload `.skill` files: [Releases](https://github.com/buriburiyj/genspark-skills-ko/releases/latest)
 
 ---
 
